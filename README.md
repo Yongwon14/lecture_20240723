@@ -19,3 +19,28 @@
 1. 환경설정
   - visual studio 설정
     - 마크다운 사용법 (스스로)
+    - drawio 확장자로 설계문서(흐름도)
+  - git 설정
+    - windows에 깃 설치
+    - clone, stage, commit, push, origin, branch
+  - 리눅스 서버를 만들자.
+    - 방법1. 클라우드(cloud)에 만들기
+    - 방법2. 내 학교 컴퓨터에 windows에 만들기
+    - 방법3. 추천) 내 노트북
+
+# 7월 23일 (화) 과제
+1. Git 활용
+2. GitHub 활용
+3. CodeSpace 활용
+4. 리눅스 명령어
+
+# 7월 24 ~ 26일 (수 ~ 금) 과제
+1. 개인pc 리눅스 시스템 구축
+  - 노트북 추천 (학교컴퓨터)
+  - 지속가능한 개발환경을 만들도록
+  - 윈도우 : WSL(Windows Subsystem for Linux)
+2. 서버 side
+  - NodeJS
+  - 몽고DB
+3. 클라이언트
+  - 리액트(70%), 뷰, 앵귤러 
